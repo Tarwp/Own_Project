@@ -8,3 +8,4 @@ develop my data analysis skills. Please feel free to
 explore my project.
 
 ### Project 1 : Using pytrend to analyze the google trend
+[Google trend analysis](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
