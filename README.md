@@ -20,3 +20,6 @@ This project covers about
 * [Exploratory data analysis](https://github.com/Tarwp/Own_Project/blob/main/E-commerce%20Analysis/E-commerce_EDA.ipynb) To explore and summarize their main characteristics of e-commerce data.
 * [Cohort analysis](https://github.com/Tarwp/Own_Project/blob/main/E-commerce%20Analysis/E-commerce_EDA.ipynb) Cohort analysis is very useful for business. It could help you to
 follow up customer behavior and understand your business perfomance.
+* [RFM analysis](https://github.com/Tarwp/Own_Project/blob/main/E-commerce%20Analysis/E_commerce_RFM.ipynb) RFM analysis could help you to identify customers segment by three factors recency, frequency and monetary
+* [Market basket analysis using association rule](https://github.com/Tarwp/Own_Project/blob/main/E-commerce%20Analysis/Association_rules.ipynb)
+Market basket analysis make you more understand about behavior of buyer. And will know which items users frequently purchased together.
