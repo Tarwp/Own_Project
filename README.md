@@ -17,4 +17,6 @@ see what users searching about the iphone 12 which trending now.
 
 ### E-commerce analysis
 This project covers about
-* [Exploratory data analysis](https://github.com/Tarwp/Own_Project/blob/main/E-commerce%20Analysis/E-commerce_EDA.ipynb) To explore and summarize their main characteristics of e-commerce data
+* [Exploratory data analysis](https://github.com/Tarwp/Own_Project/blob/main/E-commerce%20Analysis/E-commerce_EDA.ipynb) To explore and summarize their main characteristics of e-commerce data.
+* [Cohort analysis](https://github.com/Tarwp/Own_Project/blob/main/E-commerce%20Analysis/E-commerce_EDA.ipynb) Cohort analysis is very useful for business. It could help you to
+follow up customer behavior and understand your business perfomance.
