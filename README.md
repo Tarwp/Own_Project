@@ -9,3 +9,5 @@ explore my project.
 
 ### Project 1 : Using pytrend to analyze the google trend
 [Google trend analysis](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
+
+![alt text](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrenim.jpg)
