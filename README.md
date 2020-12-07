@@ -7,7 +7,9 @@ by me. The purpose that i am created these projects to
 develop my data analysis skills. Please feel free to 
 explore my project.
 
-### Using pytrend to analyze the google trend [Google trend analysis](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
+### Telco customers churn analysis using classification machine learning model.
+
+### [Using pytrend to analyze the google trend](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
 
 For this project, I am trying to use pytrend to measure which 
 e-commerce has more users searching. And also used pytrend to 
