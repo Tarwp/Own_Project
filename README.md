@@ -10,7 +10,7 @@ explore my project.
 ### Telco customers churn analysis using classification machine learning model.
 
 ### Using pytrend to analyze the google trend
-[Google trend analysis](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
+### [Google trend analysis](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
 
 For this project, I am trying to use pytrend to measure which 
 e-commerce has more users searching. And also used pytrend to 
