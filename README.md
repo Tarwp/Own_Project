@@ -7,7 +7,8 @@ by me. The purpose that i am created these projects to
 develop my data analysis skills. Please feel free to 
 explore my project.
 
-### Telco customers churn analysis using classification machine learning model.
+### Telco customers churn prediction using classification machine learning model.
+Churn prediction is the solutions to forecast the possibility of customer who will quit using the product and services by using the historical data.
 
 ### Using pytrend to analyze the google trend
 ### [Google trend analysis](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
