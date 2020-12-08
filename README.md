@@ -8,7 +8,11 @@ develop my data analysis skills. Please feel free to
 explore my project.
 
 ### Telco customers churn prediction using classification machine learning model.
-Churn prediction is the solutions to forecast the possibility of customer who will quit using the product and services by using the historical data.
+Churn prediction is the solutions to forecast the possibility of trending customer who will quit using the product and services by using the historical data.
+Most organizations take the results of churn prediction to identify behavior patterns of customers who are likely to churn. The results will enable organizations 
+to segment those customers and able to arrange develop products, services and proper sales strategy for convince customers continue using products and services.
+This note book will using the classification machine learning model to predict whether which customers will churn and we will measure whether the model Which is 
+the best used to predict this dataset?
 
 ### Using pytrend to analyze the google trend
 ### [Google trend analysis](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
