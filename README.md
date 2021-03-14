@@ -7,6 +7,9 @@ by me. The purpose that i am created these projects to
 develop my data analysis skills. Please feel free to 
 explore my project.
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/profile/watcharapol7149#!/vizhome/OlderTrend/Dashboard2?publish=yes"width = '650' height = '450' scrolling='yes' ></iframe>  
+
+
 ### Telco customers churn prediction using classification machine learning model.
 ### [Telco customers churn prediction](https://github.com/Tarwp/Own_Project/blob/main/Telco%20churn%20prediction/Telco_Churn_Prediction.ipynb)
 Churn prediction is the solutions to forecast the possibility of trending customers who will quit using the product and services by using the historical data.
@@ -35,5 +38,3 @@ follow up customer behavior and understand your business perfomance.
 Market basket analysis make you more understand about behavior of buyer. And will know which items users frequently purchased together.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/profile/watcharapol7149#!/vizhome/MonthlyReport_16006154043090/Dashboard1" width = '650' height = '450' scrolling='yes' ></iframe>  
-
-<iframe seamless frameborder="0" src="https://public.tableau.com/profile/watcharapol7149#!/vizhome/OlderTrend/Dashboard2?publish=yes"width = '650' height = '450' scrolling='yes' ></iframe>  
